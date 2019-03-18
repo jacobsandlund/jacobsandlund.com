@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="styles.css">
+  <title>Test Post - Jacob Sandlund</title>
+</head>
+<body>
+  <div id="page">
+    <div id="bar"></div>
+    <div id="nav"><a href="./index.html">home</a></div>
+
+    <h1>Test Post - Immediate Mode</h1>
+
+    <div id="info">
+      by <span id="author">Jacob Sandlund</span> - Mar 2019
+    </div>
+
+    <p>Immediate mode rendering is a style for <a href="https://en.wikipedia.org/wiki/Application_programming_interface">application programming interfaces</a> of graphics libraries, in which client calls directly cause rendering of graphics objects to the display, or in which the data to describe rendering primitives is inserted frame by frame directly into a command list (in the case of immediate mode primitive rendering), without the use of extensive indirection to retained resources. It does not preclude the use of double-buffering. In contrast to retained mode, lists of objects to be rendered are not saved by the API library. Instead, the application must re-issue all drawing commands required to describe the entire scene each time a new frame is required, regardless of actual changes. This method provides the maximum amount of control and flexibility to the application program.</p>
+
+    <h2>Immediate mode primitive rendering</h2>
+
+    <p>Primitive vertex attribute data may be inserted frame by frame into a command buffer by a rendering API. This involves significant bandwidth and processor time (especially if the graphics processing unit is on a separate bus), but may be advantageous for data generated dynamically by the CPU. It is less common since the advent of increasingly versatile shaders, with which a graphics processing unit may generate increasingly complex effects without the need for CPU intervention.</p>
+
+    <p><strong>Immediate mode rendering with vertex buffers.</strong> Although drawing commands have to be re-issued for each new frame, modern systems using this method are generally able to avoid the unnecessary duplication of more memory-intensive display data by referring to that unchanging data (via indirection) (e.g. textures and vertex buffers) in the drawing commands.</p>
+  </div>
+</body>
+</html>
