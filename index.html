@@ -7,19 +7,35 @@
 </head>
 <body>
   <div id="page">
-    <div id="bar"></div>
     <h1>Jacob Sandlund</h1>
 
-    <p>I'm developing Sixcode&mdash;a visual programming system using hexagons as the building block for all code. The goal is to simplify programming so it's easier for non-coders to learn. See the <a href="sixcode/introduction.html">introduction to Sixcode</a> to learn more.</p>
+    <hr>
+
+    <p>
+      I'm developing <a href="sixcode/introduction.html">Sixcode</a>&mdash;a visual programming system designed to make it easier for non-coders to learn how to code.
+    </p>
+
+    <form action="https://tinyletter.com/sixcode" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/jacobsandlund', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+      <p>
+        <a href="https://twitter.com/jacobtsandlund">@jacobtsandlund</a> - <span id="email">Email my first name at this domain</span>
+        <br>
+        <label>Get updates on Sixcode via TinyLetter: <input type="text" style="width:150px" name="email" placeholder="Enter your email"></label>
+        <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe">
+      </p>
+    </form>
 
     <h2>Posts</h2>
 
     <p>
       <ul>
-        <li>[Sixcode] <a href="test-post.html">Test Post</a> (Mar 2019)</li>
-        <li>[Books] <a href="test-post.html">Yo yo ma</a> (Mar 2019)</li>
+        <li><a href="test-post.html">Test Post</a> (Mar 2019)</li>
       </ul>
     </p>
   </div>
+  <script>
+    var name = 'jacob';
+    var domain = 'jacobsandlund.com';
+    document.getElementById('email').innerText = name + '@' + domain;
+  </script>
 </body>
 </html>
