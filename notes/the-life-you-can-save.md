@@ -1,8 +1,8 @@
 # _The Life You Can Save_
 
-## Notes for _The Life You Can Save: How to do your part to end world poverty_ by Peter Singer
-<link rel="stylesheet" type="text/css" href="../style.css" />
+## Notes for _The Life You Can Save_ by Peter Singer
 
+[Jacob Sandlund][1]
 May 2020
 
 This was an impactful book on the duty to give to those in extreme poverty for anyone living in the affluent parts of the world. Its message was clear: we can end poverty if everyone does their part in donating a substantial amount more than we currently are. I found the book shaking me out of complacency, but also laying on too much guilt and too much burden making it a difficult read.
@@ -33,8 +33,10 @@ Another possible problem is Singer’s narrow moral viewpoint, that is squarely 
 
 Finally, although the book is premised on giving to those in extreme poverty, much of the substance of the book’s arguments on personal giving is about charity overall. Singer makes many rational arguments about how X cause is more effective in terms of the number of lives saved. While there is certainly more of a gap in need to give to extremely poor countries than to other causes, his arguments put quantity way above quality. There are many ways in which people can help make the world a better place, and saving more lives isn’t the only one. It’s tremendously important to do more in that regard, but he could treat other efforts less disparagingly.
 
-## Personal Takeaway
+## Personal takeaway
 
 Even just beginning the book, I was realizing how complacent I had become in my own giving, and how the concerns of those in need hasn’t been a thought I’ve had in daily life. I started thinking of expenses I could cut, like choosing cheaper cosmetics, or even considering canceling my Spotify subscription and relying on my record collection except for the occasional month of new music exploration. Before the end of the book, I realized I had gone too far. I even reacted in an opposite way and decided to pay for a whole year of Amazon Music Unlimited for higher quality audio. Music is after all, something I cherish highly, and the annoyance of having to cancel and renew a plan just to save tens of dollars a year is not at all worth it. I think that’s one of the concerns about this book, that it places too much emphasis on a lifestyle change and leaves the more effective strategy of pledging to give an adequate but reasonable amount to the end.
 
 Gripes aside, the book prompted me to make the pledge and give a percentage of my income every month, through GiveWell. I feel good that I’m doing something to help make the world a better place. And who knows, maybe the examples of cutting expenses can help me save more and amass a fortune to give away at the end of my life!
+
+[1]:	https://jacobsandlund.com
