@@ -16,6 +16,7 @@ body {
 
 #info {
   margin-bottom: 1.2rem;
+  margin-top: -0.9rem;
   font-size: 16px;
 }
 
@@ -40,17 +41,7 @@ h1 {
   font-size: 1.3rem;
   font-family: Georgia, serif;
   margin-top: 1.4rem;
-  margin-bottom: 0.1rem;
-}
-
-hr {
-  display: block;
-  height: 1px;
-  border: 0;
-  border-top: 1px solid #cccccc;
-  margin: 0;
-  margin-bottom: 0.6rem;
-  padding: 0;
+  margin-bottom: 1rem;
 }
 
 h2 {

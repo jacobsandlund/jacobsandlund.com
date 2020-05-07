@@ -3,7 +3,7 @@
 [Jacob Sandlund][1]  
 May 2020
 
-This was an impactful book on the duty to give to those in extreme poverty for anyone living in the affluent parts of the world. Its message was clear: we can end poverty if everyone does their part in donating a substantial amount more than we currently are. I found the book shaking me out of complacency, but also laying on too much guilt and too much burden making it a difficult read.
+This was an impactful book on the duty to give to those in extreme poverty for anyone living in the affluent parts of the world. Its message was clear: we can end poverty if everyone does their part in donating a substantial amount more than we currently are. I found the book awakening me from complacency, but also holding an impossibly high ethical standard making for a difficult read.
 
 ## Notes
 
