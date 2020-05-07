@@ -1,15 +1,19 @@
 html {
   font-family: sans-serif;
-  font-size: 20px;
   line-height: 1.6;
   color: #3d3d3d;
   margin: 0;
+}
+
+body, html {
+  font-size: 20px;
 }
 
 body {
   box-sizing: border-box;
   margin: 0 auto;
   padding: 20px;
+  max-width: 740px;
 }
 
 #info {
@@ -44,10 +48,4 @@ h1 {
 
 h2 {
   font-size: 1.1rem;
-}
-
-@media (min-width: 740px) {
-  body {
-    max-width: 740px;
-  }
 }
