@@ -1,6 +1,4 @@
-# _The Life You Can Save_
-
-## Notes for _The Life You Can Save_ by Peter Singer
+# _The Life You Can Save_ <span class="subtitle">by Peter Singer</span>
 
 [Jacob Sandlund][1]  
 May 2020
