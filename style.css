@@ -41,7 +41,11 @@ h1, h2 {
 }
 
 h1 {
-  font-size: 42px;
+  font-size: 1rem;
+}
+
+h1[id] {
+  font-size: 32px;
   font-family: Georgia, serif;
   margin-top: 1.4rem;
   margin-bottom: 0.1rem;
