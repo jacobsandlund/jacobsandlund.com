@@ -2,42 +2,27 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <link rel="stylesheet" type="text/css" href="styles.css">
+  <link rel="stylesheet" type="text/css" href="style.css">
   <title>Jacob Sandlund</title>
 </head>
 <body>
-  <div id="page">
-    <h1>Jacob Sandlund</h1>
+  <h1>Jacob Sandlund</h1>
 
-    <hr>
+  <hr>
 
-    <div id="info">
-			 <span id="email">email: my first name at this domain</span> - <a href="https://twitter.com/jacobtsandlund">@jacobtsandlund</a>
-    </div>
-
-    <p>
-      I'm developing <code>SixCode</code>&mdash;a visual programming system using hexagon blocks that is being designed for non-coders to learn how to code.
-    </p>
-
-    <form action="https://tinyletter.com/sixcode" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/jacobsandlund', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-      <p>
-        <label>Get updates on <code>SixCode</code> via TinyLetter: <input type="text" style="width:150px" name="email" placeholder="Enter your email"></label>
-        <input type="hidden" value="1" name="embed"><input type="submit" value="Subscribe">
-      </p>
-    </form>
-
-    <h2>Posts</h2>
-
-    <p>
-      <ul>
-        <li><a href="hello-world.html">Hello World</a> (stub page - Mar 2019)</li>
-      </ul>
-    </p>
-
+  <div id="info">
+      <span id="email">email: my first name at this domain</span>
   </div>
+
+  <p>
+    <ul>
+      <li><a href="notes/the-life-you-can-save.html"><em>The Life You Can Save</em></a> (May 2020)</li>
+    </ul>
+  </p>
+
   <script>
-    var name = 'jacob';
-    var domain = 'jacobsandlund.com';
+    const name = 'jacob';
+    const domain = 'jacobsandlund.com';
     document.getElementById('email').innerText = name + '@' + domain;
   </script>
 </body>
