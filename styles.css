@@ -15,16 +15,6 @@ body {
   font-smoothing: antialiased;
 }
 
-#info {
-  margin-bottom: 1.2rem;
-  margin-top: -0.9rem;
-  font-size: 16px;
-}
-
-#info, #info a {
-  color: #777777;
-}
-
 a, a:visited {
   color: #2d2d2d;
 }
